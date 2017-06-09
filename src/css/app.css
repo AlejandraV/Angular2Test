@@ -167,7 +167,8 @@ form input {
   font-family: 'Dosis', sans-serif;
   width: calc(40% - 20px);
   margin-right: 16px;
-  outline: none; }
+  outline: none;
+  border: 1px solid #f0f0f0; }
 form .btn {
   border: none;
   border-radius: 0;
